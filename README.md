@@ -6,4 +6,6 @@
 
 // Functional-ish. Test-driven. Always refactoring.
 
+📄 [My Resume](https://beheshty.github.io/)
+
 
